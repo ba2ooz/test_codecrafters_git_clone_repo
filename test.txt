@@ -1,1 +1,1 @@
-commit 2
+commit [trying to force a delta object present in the pack file] 2 [hah?!]
